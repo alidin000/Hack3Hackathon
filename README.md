@@ -1,4 +1,4 @@
-# Hack3Hackathon
+# Hack3Hackathon Challenge
 
 <h2>Esportmanager.com</h2>
 <h2>Leaderboard ELO System</h2>
